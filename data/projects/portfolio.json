@@ -3,6 +3,6 @@
     "technology": "NextJS",
     "hook": "Written to showcase my projects and skills (and to learn NextJS)",
     "link": "/projects/portfolio",
-    "img": "/images/portfolio-v1.png",
+    "img": "https://jamsterwes.github.io/images/portfolio-v1.png",
     "colorVariant": "cyan"
 }

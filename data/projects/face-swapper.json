@@ -3,6 +3,6 @@
     "technology": "Python",
     "hook": "Made for CSCE448: Computational Photography, as a team of 2",
     "link": "/projects/face-swapper",
-    "img": "/images/face-swapper.png",
+    "img": "https://jamsterwes.github.io/images/face-swapper.png",
     "colorVariant": "maroon"
 }

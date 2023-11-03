@@ -3,6 +3,6 @@
     "technology": "C++",
     "hook": "Made for CSCE441: Computer Graphics",
     "link": "/projects/sw-raytracer",
-    "img": "/images/sw-raytracer.jpg",
+    "img": "https://jamsterwes.github.io/images/sw-raytracer.jpg",
     "colorVariant": "maroon"
 }
