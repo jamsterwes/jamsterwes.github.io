@@ -1,7 +1,7 @@
 {
     "title": "Portfolio",
-    "technology": "NextJS",
-    "hook": "Written to showcase my projects and skills (and to learn NextJS)",
+    "technology": "Next.JS",
+    "hook": "Written to showcase my projects and skills (and to learn Next.JS)",
     "link": "/projects/portfolio",
     "img": "https://jamsterwes.github.io/images/portfolio-v1.png",
     "colorVariant": "cyan"
