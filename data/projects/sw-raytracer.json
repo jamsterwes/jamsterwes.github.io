@@ -1,0 +1,8 @@
+{
+    "title": "Software Raytracer",
+    "technology": "C++",
+    "hook": "Made for CSCE441: Computer Graphics",
+    "link": "/projects/sw-raytracer",
+    "img": "/images/sw-raytracer.jpg",
+    "colorVariant": "maroon"
+}

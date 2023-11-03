@@ -1,0 +1,8 @@
+{
+    "title": "Alumni Directory",
+    "technology": "Rails",
+    "hook": "Made for CSCE431: Software Engineering, as a team of 4",
+    "link": "/projects/alumni-directory",
+    "img": "/images/alumni-directory.png",
+    "colorVariant": "red"
+}

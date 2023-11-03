@@ -1,0 +1,8 @@
+{
+    "title": "Portfolio",
+    "technology": "NextJS",
+    "hook": "Written to showcase my projects and skills (and to learn NextJS)",
+    "link": "/projects/portfolio",
+    "img": "/images/portfolio-v1.png",
+    "colorVariant": "cyan"
+}
